@@ -1,6 +1,6 @@
 title: Introduction to Software Design Patterns # *** Enter learning module title here
-github_repo_url: "https://mcmasterrs.github.io/lm_intro-sw-pattern" # *** Enter learning module URL (in github pages) here
-gh_edit_repository: "https://github.com/McMasterRS/lm_intro-sw-pattern" # *** ENTER the github URL for your repo
+github_repo_url: "https://mcmasterrs.github.io/lm_sw-design-patterns" # *** Enter learning module URL (in github pages) here
+gh_edit_repository: "https://github.com/McMasterRS/lm_sw-design-patterns" # *** ENTER the github URL for your repo
 
 subtitle: "Research Software Development Learning Module - Introduction to Software Design Patterns"
 favicon_ico: "https://raw.githubusercontent.com/McMasterRS/learning_module-template/main/assets/img/favicon.ico"
